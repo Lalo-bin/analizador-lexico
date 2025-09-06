@@ -1,0 +1,5 @@
+int _x1 = 0;
+_x1 += 10;
+bool b = true ? false : true;
+if (_x1 != 0 || (_x1 <= 20 && _x1 >= 10)) { _x1--; }
+string t = "comillas \" y backslash \\";

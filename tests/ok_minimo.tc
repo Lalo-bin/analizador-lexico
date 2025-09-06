@@ -1,0 +1,7 @@
+int main() {
+  float y = 3.14e-2;
+  string s = "hola\n";
+  if (y >= 0 && !false) { y++; }
+  // comentario linea
+  /* comentario bloque */
+}
