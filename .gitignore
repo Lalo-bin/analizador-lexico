@@ -1,0 +1,17 @@
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# (Opcional) entornos virtuales
+.venv/
+venv/
+env/
+
+# (Opcional) IDE / SO
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
